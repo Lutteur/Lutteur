@@ -6,7 +6,7 @@ I'm Paul, I'm 20 years old and I'm a second year student in BUT IT (Bachelor’s
 
 ## Currently learning
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=all)](https://skillicons.dev/icons?i=all)
 
 <!--
 **Lutteur/Lutteur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
