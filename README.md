@@ -2,13 +2,33 @@
 
 ## Presentation
 
-I'm Paul, I'm 20 years old and I'm a second year student in BUT IT (Bachelor’s degree in technology). I am currently learning Java Spring and Vue.js
+I'm Paul, I'm 20 years old and I'm a third year student in BUT IT (Bachelor’s degree in technology).
+
+I want to be a developper since I'm sixteen. This passion comes from a lot of things, first by hardware and then because I
+did a internship with a technician programmer.
+
+I'm a curious person and so I love discover new languages and new frameworks as well.
 
 ## Currently learning
+
+I'm currently learning Java Spring and Vue for my apprenticeship.
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev/icons?i=java)
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev/icons?i=vue)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev/icons?i=php)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev/icons?i=js)
+
+## Languages that I need to improve
+
+The first language that I need to improve is my JavaScript skills, because I know that it's a powerful language to communicate with an API. 
+I also need to improve my CSS skills even I don't like this language.
+
+## 📫 How to reach me:
+
+You can contact me on my discord and my professional mail :
+
+Email : pauln8069@gmail.com
+Discord : Lutteur
 
 <!--
 **Lutteur/Lutteur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
