@@ -27,7 +27,7 @@ I also need to improve my CSS skills even I don't like this language.
 
 You can contact me on my discord and my professional mail :
 
-Email : pauln8069@gmail.com
+Email : pauln8069@gmail.com <br>
 Discord : Lutteur
 
 <!--
