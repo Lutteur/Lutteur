@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## Presentation
+
+I'm Paul, I'm 20 years old and I'm a second year student in BUT IT (Bachelor’s degree in technology). I am currently learning Java Spring and Vue.js
+
+## Currently learning
+
+![JavaScript](https://shields.io)
+
 <!--
 **Lutteur/Lutteur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
