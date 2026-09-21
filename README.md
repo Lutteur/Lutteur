@@ -2,12 +2,12 @@
 
 ## Presentation
 
-I'm Paul, I'm 20 years old and I'm a third year student in BUT IT (Bachelor’s degree in technology).
+My name is Paul, I'm 20 years old and I'm a third year student in BUT IT (Bachelor’s degree in technology).
 
-I want to be a developper since I'm sixteen. This passion comes from a lot of things, first by hardware and then because I
-did a internship with a technician programmer.
+I want to be a developer since I'm sixteen. This passion comes from a lot of things, first by hardware and then because I
+did an internship with a technician programmer.
 
-I'm a curious person and so I love discover new languages and new frameworks as well.
+I'm a curious person and so I love discovering new languages and new frameworks as well.
 
 ## Currently learning
 
@@ -18,7 +18,7 @@ I'm currently learning Java Spring and Vue for my apprenticeship.
 ## Languages that I need to improve
 
 The first language that I need to improve is my JavaScript skills, because I know that it's a powerful language to communicate with an API. 
-I also need to improve my CSS skills even I don't like this language.
+I also need to improve my CSS skills even though I don't like this language.
 
 ## 📫 How to reach me:
 
