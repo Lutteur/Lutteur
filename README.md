@@ -9,6 +9,8 @@ did an internship with a technician programmer.
 
 I'm a curious person and so I love discovering new languages and new frameworks as well.
 
+As you can guess one of my favourite video games is Helldivers 2.
+
 ## Currently learning
 
 I'm currently learning Java Spring and Vue for my apprenticeship.
