@@ -11,13 +11,13 @@ I'm a curious person and so I love discovering new languages and new frameworks 
 
 As you can guess one of my favourite video games is Helldivers 2.
 
-## Currently learning
+## 📓 Currently learning
 
 I'm currently learning Java Spring and Vue for my apprenticeship.
 
 [![My Skills](https://skillicons.dev/icons?i=java,php,js,spring,vue,docker&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-## Languages that I need to improve
+## 💪 Languages that I need to improve
 
 The first language that I need to improve is my JavaScript skills, because I know that it's a powerful language to communicate with an API. 
 I also need to improve my CSS skills even though I don't like this language.
